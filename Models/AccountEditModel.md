@@ -1,0 +1,34 @@
+# AccountEditModel
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+| **createdName** | **String** |  | [optional] [default to null] |
+| **createdDate** | **Date** |  | [optional] [default to null] |
+| **createdUid** | **String** |  | [optional] [default to null] |
+| **updateUid** | **String** |  | [optional] [default to null] |
+| **updateDate** | **Date** |  | [optional] [default to null] |
+| **updateName** | **String** |  | [optional] [default to null] |
+| **phoneNum** | **String** |  | [optional] [default to null] |
+| **address** | **String** |  | [optional] [default to null] |
+| **avatarFileUrl** | **String** |  | [optional] [default to null] |
+| **email** | **String** |  | [optional] [default to null] |
+| **username** | **String** |  | [optional] [default to null] |
+| **password** | **String** |  | [optional] [default to null] |
+| **checkPassword** | **String** |  | [optional] [default to null] |
+| **active** | **Boolean** |  | [optional] [default to null] |
+| **userID** | **String** |  | [optional] [default to null] |
+| **brandId** | **String** |  | [optional] [default to null] |
+| **area** | **String** |  | [optional] [default to null] |
+| **passwordHash** | **byte[]** |  | [optional] [default to null] |
+| **passwordSalt** | **byte[]** |  | [optional] [default to null] |
+| **mailToken** | **String** |  | [optional] [default to null] |
+| **verify** | **Boolean** |  | [optional] [default to null] |
+| **mailTokenTriggerTime** | **Date** |  | [optional] [default to null] |
+| **pwdTokenTriggerTime** | **Date** |  | [optional] [default to null] |
+| **lineUserId** | **String** |  | [optional] [default to null] |
+| **lineAvatar** | **String** |  | [optional] [default to null] |
+| **lineuserName** | **String** |  | [optional] [default to null] |
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
